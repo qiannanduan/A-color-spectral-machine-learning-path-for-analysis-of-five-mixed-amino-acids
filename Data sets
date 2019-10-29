@@ -1,1 +1,10 @@
-In the paper, we obtained four datasets from the mixed systems I-IV. These datasets were uploaded to four branches: (1) “dataset-AA8”: image set (i.e., “imageset-12,000.rar”) gathered from 12,000 8-dimensional AA samples, and their labels (i.e., "labels 12,000(AA8).xlsx”); (2) “dataset-AA5”: image set (i.e., “imageset-6,000.rar”) gathered from 6,000 5-dimensional AA samples, and their labels (i.e., "labels 6,000(AA5).xlsx”); (3) “dataset-EP3 (ultrapure water system)”: image set (i.e., “imageset-2,400W.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "labels 2,400(EP3).xlsx”); (4) “dataset-EP3 (soil solution system)”: image set (i.e., “imageset-2,400S.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "labels 2,400(EP3).xlsx”).
+In the paper, we obtained three datasets from the mixed systems I-IV. These datasets were uploaded to four branches: 
+(1) “5-dimensional AA (Hist-Arg-Phe-Alan-Thr) aqueous system”: image set (i.e., “image set.rar”) gathered from 3,600 5-dimensional AA samples, 
+and their labels (i.e., "labels.xlsx”); 
+(2) "5-dimensional AA (Pro-Gly-His-Thr-Phe) aqueous system": image set (i.e., “image set.rar”) gathered from 3,600 5-dimensional AA samples, 
+and their labels (i.e., "labels.xlsx”);
+(3) "5-dimensional AA (Pro-Gly-His-Thr-Phe) urine system": image set (i.e., “image set.rar”) gathered from 3,600 5-dimensional AA samples, 
+and their labels (i.e., "labels.xlsx”).
+
+All the data sets can be publicly downloaded from an URL:https://pan.baidu.com/s/1merTUlHRnpRaObXiJnAoDg
+
