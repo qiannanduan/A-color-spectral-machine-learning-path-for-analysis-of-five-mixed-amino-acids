@@ -3,7 +3,7 @@ In the paper, we obtained three datasets from the mixed systems I-IV. These data
 and their labels (i.e., "labels.xlsx”); 
 (2) "5-dimensional AA (Pro-Gly-His-Thr-Phe) aqueous system": image set (i.e., “image set.rar”) gathered from 3,600 5-dimensional AA samples, 
 and their labels (i.e., "labels.xlsx”);
-(3) "5-dimensional AA (Pro-Gly-His-Thr-Phe) urine system": image set (i.e., “image set.rar”) gathered from 3,600 5-dimensional AA samples, 
+(3) "5-dimensional AA (Pro-Gly-His-Thr-Phe) urine system": image set (i.e., “image set.rar”) gathered from 6,000 5-dimensional AA samples, 
 and their labels (i.e., "labels.xlsx”).
 
 All the data sets can be publicly downloaded from an URL: https://pan.baidu.com/s/1I5o6Cun2q1Yyl3IVtGIVHQ
